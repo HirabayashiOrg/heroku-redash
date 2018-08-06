@@ -1,1 +1,0 @@
-/app/manage.py database create_tables
